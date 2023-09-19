@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		565846792ABA242700D7A95D /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565846782ABA242700D7A95D /* Mission.swift */; };
 		56B8CCEC2A9E69BC00FAAC2E /* MoonshotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B8CCEB2A9E69BC00FAAC2E /* MoonshotApp.swift */; };
 		56B8CCEE2A9E69BC00FAAC2E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B8CCED2A9E69BC00FAAC2E /* ContentView.swift */; };
 		56B8CCF02A9E69BF00FAAC2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56B8CCEF2A9E69BF00FAAC2E /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		565846782ABA242700D7A95D /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		56B8CCE82A9E69BC00FAAC2E /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B8CCEB2A9E69BC00FAAC2E /* MoonshotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotApp.swift; sourceTree = "<group>"; };
 		56B8CCED2A9E69BC00FAAC2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				56B8CCEB2A9E69BC00FAAC2E /* MoonshotApp.swift */,
 				56B8CCED2A9E69BC00FAAC2E /* ContentView.swift */,
+				565846782ABA242700D7A95D /* Mission.swift */,
 				56BCFA6E2AA8FAC90064709B /* Astronaut.swift */,
 				56BCFA702AA8FB690064709B /* Bundle-Decodable.swift */,
 				56BCFA6A2AA8F9F60064709B /* astronauts.json */,
@@ -154,6 +157,7 @@
 				56BCFA6F2AA8FAC90064709B /* Astronaut.swift in Sources */,
 				56B8CCEE2A9E69BC00FAAC2E /* ContentView.swift in Sources */,
 				56BCFA712AA8FB690064709B /* Bundle-Decodable.swift in Sources */,
+				565846792ABA242700D7A95D /* Mission.swift in Sources */,
 				56B8CCEC2A9E69BC00FAAC2E /* MoonshotApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
